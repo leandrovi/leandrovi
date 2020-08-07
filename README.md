@@ -1,7 +1,7 @@
 # Leandro Vieira 
 ### Hi there 👋
 
-Full Stack Developer.
+I'm a Full Stack Developer crazy about music, tryps and hamburgers.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Leandro%20Vieira-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandrofv/)](https://www.linkedin.com/in/leandrofv/) 
 [![Gmail Badge](https://img.shields.io/badge/-leandrofernandesvieira@gmail.com-d44638?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leandrofernandesvieira@gmail.com)](mailto:leandrofernandesvieira@gmail.com)
