@@ -9,7 +9,6 @@ I'm a Full Stack Developer crazy about music, trips and hamburgers.
 Passionate about Creative Web Development!
 
 Enthusiast about JavaScript, Node.js, React.js and React Native.
-Inspired by the awesomeness of really good work that great developers submit to awwwards website.
 
-- 🌱 Currently learning Three.js, WebGL and AR/VR
+- 🌱 Learning Three.js, WebGL and AR/VR
 - 👯 Looking to collaborate on projects related to React.js and React Native
